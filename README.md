@@ -41,9 +41,9 @@ The models yielded the following performance on the unseen test set:
 
 | Model | Test Accuracy |
 | :--- | :--- |
-| Logistic Regression | [Sua Acurácia]% |
-| K-Nearest Neighbors | [Sua Acurácia]% |
-| Decision Tree | [Sua Acurácia]% |
+| Logistic Regression | 85.71% |
+| K-Nearest Neighbors | 86.81% |
+| Decision Tree | 79.12% |
 
 *(Aqui, adicione uma breve conclusão. Exemplo:)*
 **Conclusion:** The K-Nearest Neighbors model achieved the highest accuracy, making it the most effective classifier for this specific problem setup. The Logistic Regression also showed strong, balanced performance, while the Decision Tree was prone to overfitting.
@@ -111,6 +111,19 @@ O notebook `analise_heart_disease.ipynb` (ou o nome que você der) segue os segu
 
 ## 🔧 Como Executar
 
-1.  Clone este repositório.
-2.  Tenha o Python e as bibliotecas (pandas, scikit-learn) instalados.
-3.  Abra o Jupyter Notebook ou rode o script.
+1.  Clone esse repositório:
+    ```bash
+    git clone [https://github.com/](https://github.com/)[SeuUsuario]/heart-disease-prediction.git
+    ```
+2.  Navega até encontrar esse diretório:
+    ```bash
+    cd heart-disease-prediction
+    ```
+3.  Instale abiblioteca necessárioa:
+    ```bash
+    pip install pandas numpy scikit-learn matplotlib seaborn
+    ```
+4.  abra e rode o Jupyter Notebook:
+    ```bash
+    jupyter notebook heart_disease_analysis.ipynb
+    ```
