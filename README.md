@@ -1,6 +1,6 @@
 # heart-disease-prediction
 # 🚀 Heart Disease Prediction Project
-<img src="https://domf5oio6qrcr.cloudfront.net/medialibrary/6037/6c53ac6b-cfba-42fc-9f0b-6c96e1b6a637.jpg" alt="6c53ac6b-cfba-42fc-9f0b-6c96e1b6a637"/><img width="1200" height="699" alt="image" src="https://github.com/user-attachments/assets/69ec1ba3-2fcb-4e32-96d6-c4fb9c618138" />
+<img src="https://domf5oio6qrcr.cloudfront.net/medialibrary/6037/6c53ac6b-cfba-42fc-9f0b-6c96e1b6a637.jpg" alt="6c53ac6b-cfba-42fc-9f0b-6c96e1b6a637"/>
 
 This repository contains a classic machine learning project focused on predicting the presence of heart disease based on clinical attributes from the Cleveland dataset.
 
